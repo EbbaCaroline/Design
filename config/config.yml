@@ -11,7 +11,7 @@ timezone: ~                         # Your PHP installation might require you to
 ##
 # Theme
 #
-theme: Caroline                     # The name of your custom theme
+theme: kmom02                       # The name of your custom theme
 themes_url: ~                       # Pico will try to guess the URL to the themes dir of your installation;
                                     #     If this fails, override it here. Example: https://example.com/pico/themes/
 theme_config:                       # Additional theme-specific config
@@ -57,3 +57,4 @@ DummyPlugin.enabled: false          # Force the plugin "DummyPlugin" to be disab
 # Custom
 #
 shaded_url: themes/shared     # You can access custom settings in themes using {{ config.my_custom_setting }}
+

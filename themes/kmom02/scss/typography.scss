@@ -1,0 +1,36 @@
+html {
+    font-size: 100%;
+}
+
+.title {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    max-width: 67rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 32px;
+    margin: 1 auto;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.4;
+    font-weight: lighter;
+    width: 64 rem;
+    margin-bottom: 1.82rem;
+    margin: 1.82rem auto;
+}
+
+.main {
+    max-width: 67rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-size: 32px;
+    margin: 0 auto;
+}
+
+@media(min-width:64em) {
+    html {
+        font-size: 125.5%;
+    }
+}
